@@ -30,7 +30,7 @@ This is a modern, stylish calculator built with HTML, CSS, and an object-oriente
 
 ## Live Demo
 
-[Link to Live Demo]()
+[[Live Demo](http://127.0.0.1:3000/Calculator/index.html)]
 
 ## Technologies Used
 
