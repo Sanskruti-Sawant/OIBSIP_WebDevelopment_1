@@ -30,7 +30,7 @@ This is a modern, stylish calculator built with HTML, CSS, and an object-oriente
 
 ## Live Demo
 
-[[Live Demo](http://127.0.0.1:3000/Calculator/index.html)]
+[[Live Demo](https://sanskruti-sawant.github.io/OIBSIP_WebDevelopment_1/)]
 
 ## Technologies Used
 
