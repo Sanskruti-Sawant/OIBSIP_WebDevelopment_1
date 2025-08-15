@@ -3,7 +3,8 @@
 
 This is a modern, stylish calculator built with HTML, CSS, and an object-oriented approach in JavaScript. This version can handle multi-step expressions and respects the order of operations using parentheses, thanks to its `eval()`-based computation engine.
 
-<img width="630" height="952" alt="Image" src="https://github.com/user-attachments/assets/b086e215-2877-4dee-89ac-4800ef9f0ca6" />
+<img width="1151" height="979" alt="image" src="https://github.com/user-attachments/assets/a84579a4-cdfa-4b94-8460-598ba1f0ed78" />
+
 
 ## Table of Contents
 
@@ -30,7 +31,7 @@ This is a modern, stylish calculator built with HTML, CSS, and an object-oriente
 
 ## Live Demo
 
-[[Live Demo](<img width="1611" height="968" alt="image" src="https://github.com/user-attachments/assets/dbb7b805-d232-4bf9-b6e1-535a15a4e4a8" />)
+[[Live Demo]()
 
 
 ## Technologies Used
