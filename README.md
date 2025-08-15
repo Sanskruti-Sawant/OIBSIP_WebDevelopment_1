@@ -30,7 +30,8 @@ This is a modern, stylish calculator built with HTML, CSS, and an object-oriente
 
 ## Live Demo
 
-[[Live Demo](https://sanskruti-sawant.github.io/OIBSIP_WebDevelopment_1/)]
+[[Live Demo](<img width="1611" height="968" alt="image" src="https://github.com/user-attachments/assets/dbb7b805-d232-4bf9-b6e1-535a15a4e4a8" />)
+
 
 ## Technologies Used
 
